@@ -1,0 +1,821 @@
+    1  pwd
+    2  ls
+    3  ll
+    4  la
+    5  lal
+    6  ll -a
+    7  exit
+    8  pwd
+    9  exit
+   10  pwd
+   11  ls
+   12  cd 'My Documents'
+   13  exit
+   14  ls
+   15  pdw
+   16  pwd
+   17  ls /usr
+   18  grep
+   19  tn
+   20  telnet
+   21  netstat
+   22  routeprint
+   23  co
+   24  sudo apt install rcs
+   25  cd
+   26  co
+   27  man
+   28  sudo apt update && sudo apt upgrade
+   29  co
+   30  ll
+   31  ll | lolcat
+   32  lolcat
+   33  cacademo
+   34  sudo apt install caca-utils
+   35  cacademo
+   36  which cacademo
+   37  ll |lolcat
+   38  lolcat
+   39  alias
+   40  vi
+   41  pwd
+   42  xhost +
+   43  sudo apt install x11-xserver-utils
+   44  echo $DISPLAY
+   45  xhost +
+   46  export DISPLAY=localhost:0
+   47  echo $DISPLAY
+   48  xhost +
+   49  ip
+   50  df
+   51  df -a
+   52  du .
+   53  du
+   54  du -k
+   55  du -k .
+   56  cd c:
+   57  cd c:;
+   58  cd c:/
+   59  c:
+   60  pwd
+   61  cd /mnt/c
+   62  ls
+   63  cd windows
+   64  cd system32
+   65  cd devices
+   66  ls
+   67  cd drivers
+   68  cd etc
+   69  ls
+   70  vi hosts.copy
+   71  ls -l
+   72  chmod hosts.copy
+   73  chmod a+w hosts.copy
+   74  touch test
+   75  cacaview
+   76  cacademo
+   77  cacaclock
+   78  cd ../../..
+   79  cd ..
+   80  cd users
+   81  ls
+   82  cd CanBoyacigiller/
+   83  ls
+   84  cd My\ Documents
+   85  pwd
+   86  touch 1
+   87  ls -l 1
+   88  id
+   89  cd 
+   90  cd Documents
+   91  pwd
+   92  cd -
+   93  cd Documents/
+   94  ls
+   95  cd GitHub/
+   96  ls
+   97  cd can
+   98  ls
+   99  cd CDA_Methodology/
+  100  ls
+  101  git remote -v
+  102  git fetch
+  103  vim README.md
+  104  git commit -a -m "minor changes to ToC"
+  105  git config --global user.email "can@us.ibm.com"
+  106  git config --global user.name "can@us.ibm.com"
+  107  git commit -a -m "minor changes to ToC"
+  108  git push
+  109  git remote -v
+  110  git remote set-url origin git@github.ibm.com:/CDA/CDA_Methodology
+  111  vi README.md 
+  112  git remote -v
+  113  git commit -a -m "minor changes to ToC"
+  114  git push
+  115  pwd
+  116  ls ~
+  117  users
+  118  user
+  119  usr
+  120  df .
+  121  ls -a
+  122  ls ~
+  123  ls -a ~
+  124  view ~/.ssh
+  125  ssh-keygen -t rsa -b 4096 -C "can@us.ibm.com"
+  126  clip
+  127  sudo apt install geomview
+  128  clip
+  129  man clip
+  130  view ~/.ssh/id_rsa
+  131  view ~/.ssh/id_rsa.pub
+  132  cat ~/.ssh/id_rsa.pub
+  133  vi ~/.ssh/id_rsa.pub
+  134  git push
+  135  git pull
+  136  vi README.md
+  137  git
+  138  git commit -a -m "minor changes to ToC"
+  139  git push
+  140  exit
+  141  pwd
+  142  ls -al .ssh
+  143  exit
+  144  ls
+  145  la
+  146  ll
+  147  vi .vim
+  148  pwd
+  149  vi .exrc
+  150  vi 
+  151  pwd
+  152  ibmcloud
+  153  oc
+  154  curl -sL https://ibm.biz/idt-installer | bash
+  155  ic
+  156  ibmcloud dev help
+  157  ibmcloud login
+  158  ibmcloud login --sso
+  159  ic
+  160  exit
+  161  ls
+  162  exit
+  163  ic
+  164  ibmcloud login --sso
+  165  ln -s /mnt/c/Users/canpb/ ~/winhome
+  166  pwd
+  167  ls
+  168  cd winhome
+  169  cd ./winhome
+  170  cd ~/winhome
+  171  ls -l
+  172  cd winhome
+  173  cd /mnt
+  174  cd c
+  175  cd users
+  176  ls
+  177  cd ..
+  178  cd home
+  179  cd Users
+  180  ls
+  181  cd canpb
+  182  cd CanBoyacigiller/
+  183  ls
+  184  cd Documents/
+  185  ls
+  186  cd GitHub/
+  187  ls
+  188  cd
+  189  ln -sf /mnt/c/Users/CanBoyacigiller/ ~/winhome
+  190  cd ./winhome
+  191  pwd
+  192  ls
+  193  cd ..
+  194  cd
+  195  pwd
+  196  ls
+  197  la
+  198  pwd
+  199  . .profile
+  200  xeyes
+  201  xclock
+  202  clear
+  203  history
+  204  history |grep history
+  205  grep .bash_history history
+  206  grep history .bash_history
+  207  cat .bash_history 
+  208  export DISPLAY=localhost:2
+  209  xeyes
+  210  export DISPLAY=localhost:1
+  211  xeyes
+  212  export DISPLAY=localhost:0
+  213  xeyes
+  214  ibmcloud logout
+  215  ic
+  216  ic logon --sso
+  217  ic login --sso
+  218  ic config -v
+  219  ic help
+  220  pwd
+  221  la
+  222  vi .profile
+  223  . .profile
+  224  cat /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  225  vi /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  226  chmod u+w /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  227  sudo chmod u+w /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  228  vi /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  229  sudo chmod a+w /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  230  vi /usr/local/ibmcloud/autocomplete/bash_autocomplete
+  231  . .profile
+  232  ibmcloud version 
+  233  oc
+  234  ic dev
+  235  ic dev list
+  236  ll
+  237  la
+  238  l
+  239  kubectl
+  240  alias
+  241  la
+  242  cat .bluemix/
+  243  cat .bash_history 
+  244  cat .bash_history >history.txt
+  245  pwd
+  246  df .
+  247  id
+  248  ls
+  249  mail
+  250  xterm
+  251  sudo apt install xterm
+  252  xterm
+  253  export DISPLAY=localhost:0
+  254  xterm
+  255  xhost +
+  256  ip
+  257  ip /config
+  258  ipconfig
+  259  sudo apt install net-tools
+  260  ipconfig
+  261  ifconfig
+  262  export DISPLAY=192.168.1.86:0
+  263  xterm
+  264  xhost +
+  265  export DISPLAY=127.0.0.1:0
+  266  xhost +
+  267  xterm
+  268  xclock
+  269  sudo apt install x11-apps
+  270  xclock
+  271  export DISPLAY=
+  272  export DISPLAY=:0
+  273  xclock
+  274  tracerout
+  275  traceroute
+  276  sudo apt install traceroute
+  277  sudo apt install -y ca-certificates findutils command-not-found vim nano curl openssh-client less screen apt-utils top htop whois git python3-pip
+  278  sudo apt install -y ca-certificates findutils command-not-found vim nano curl openssh-client less screen apt-utils htop whois git python3-pip
+  279  echo "export DISPLAY=localhost:0.0" >> ~/.bashrc
+  280  . ~/.bashrc
+  281  ci
+  282  ic
+  283  sudo apt-get install x11-apps
+  284  xeyes
+  285  xterm &
+  286  ibmcloud logout
+  287  la
+  288  ll
+  289  cd /mnt/c/users/CanBoyacigiller/Documents/GitHub/can/CDA_Methodology
+  290  ls
+  291  vi README.md 
+  292  history
+  293  history --help
+  294  git fetch
+  295  git fetch -v
+  296  git commit -a -m "minor changes to ToC"
+  297  git push -v
+  298  git fetch -v
+  299  vi ~/.exrc
+  300  man cloud-init
+  301  du 
+  302  du -ks
+  303  df
+  304  df .
+  305  df -k .
+  306  df -m .
+  307  df -g .
+  308  df -m 
+  309  clear
+  310  emacs
+  311  sudo apt install emacs25
+  312  emacs
+  313  clear
+  314  df .
+  315  df -m .
+  316  ls
+  317  vi README_test.md 
+  318  ls
+  319  mdtoc.rb
+  320  gh-md-toc
+  321  la
+  322  sudo apt install ekalinin/github-markdown-toc
+  323  cd /usr/bin/
+  324  wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+  325  sudo wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+  326  sudo chmod a+x gh-md-toc
+  327  cd -
+  328  gh-md-toc
+  329  gh-md-toc https://pages.github.ibm.com/CDA/CDA_Methodology/README_test.md
+  330  view README_test.md 
+  331  gh-md-toc https://pages.github.ibm.com/CDA/CDA_Methodology/README.md
+  332  vi README.md
+  333  ls
+  334  gh-md-toc header.md
+  335  cat header.md
+  336  gh-md-toc CADI_Methodology.md 
+  337  gh-md-toc ./README.md
+  338  gh-md-toc ./CADI_Methodology.md 
+  339  gh-md-toc ./README_test.md 
+  340  gh-md-toc ./README.md
+  341  clear
+  342  ibmcloud logout
+  343  cacademo
+  344  cacaview
+  345  cacaclock
+  346  cacafire
+  347  which cacafire
+  348  view /usr/bin/cacafire
+  349  man caca
+  350  man caca*
+  351  man l
+  352  man cacademo
+  353  man view
+  354  ls
+  355  pwd
+  356  touch test
+  357  ls -l
+  358  cacaview test
+  359  man cacaview
+  360  cacaview /usr/share/pixmaps/*.*
+  361  man cacaplay
+  362  cacaplay file.caca
+  363  man cacaserver
+  364  clear
+  365  cls
+  366  dir
+  367  pwd
+  368  id
+  369  cd /mnt/c/windows/drivers/etc
+  370  cd /mnt
+  371  cd c
+  372  ls
+  373  cd DRIVERS/
+  374  ls
+  375  cd ..
+  376  cd Windows
+  377  cd Drivers
+  378  cd System32/Drivers
+  379  cd etc
+  380  ls -l
+  381  chmod g-w hosts.copy
+  382  chmod -w hosts.copy
+  383  vi hosts.copy
+  384  chmod
+  385  ls -l
+  386  vi hosts
+  387  cat hosts
+  388  ping sxv1v250
+  389  ll
+  390  cat hosts.copy
+  391  ic
+  392  ibmcloud logout
+  393  ifconfig 
+  394  su
+  395  suNew2life
+  396  clear
+  397  su
+  398  id
+  399  su
+  400  cd Downloads
+  401  pwd
+  402  cd !
+  403  cd ~
+  404  ls
+  405  pwd
+  406  cd winhome
+  407  pwd
+  408  ls
+  409  cd Downloads/
+  410  ls
+  411  ping sasvpn.raleigh.ibm.com
+  412  ping w3.ibm.com
+  413  ifconfig
+  414  ipconfig
+  415  tree
+  416  ls
+  417  sudo apt install tree
+  418  tree --help
+  419  sudo apt install jq
+  420  ls
+  421  cd winhome
+  422  ls
+  423  cd IBM
+  424  ls
+  425  cd ..
+  426  cd GitHub
+  427  cd Documents/
+  428  ls
+  429  cd GitHub/
+  430  ls
+  431  cd cda_documentation/
+  432  ls
+  433  tree
+  434  ls
+  435  cd _content/
+  436  ls
+  437  tree
+  438  cd ..
+  439  git fetch
+  440  cd ../can
+  441  cd cda_documentation/
+  442  tree
+  443  ls
+  444  cd _content
+  445  tree
+  446  ls
+  447  cd ..
+  448  git pull
+  449  cd ..
+  450  cd cda_documentation/
+  451  git fetch -v
+  452  cd _content/
+  453  tree
+  454  git
+  455  git remote -v
+  456  git fetch 
+  457  cd ..
+  458  git remote set-url origin git@github.ibm.com:/CDA/cda_documentation.git
+  459  git remote -v
+  460  git fetch
+  461  git fetch -v
+  462  cd ..
+  463  ls
+  464  cd CloudPakDecisions/
+  465  ls
+  466  cd ..
+  467  cd can
+  468  ls
+  469  git clone git@us-south.git.cloud.ibm.com:can/IBM-Telco-Pack.git
+  470  rm -rf IBM-Telco-Pack/
+  471  git clone git@us-south.git.cloud.ibm.com:can/IBM-Telco-Pack.git
+  472  ls
+  473  history |grep tree
+  474  ls
+  475  cd IBM-Telco-Pack/
+  476  ls
+  477  tree
+  478  tree 0d
+  479  tree -d
+  480  ls
+  481  cd IBM_Telco_Pack_Default_Component/
+  482  ls
+  483  cd ..
+  484  rm -rf IBM_Telco_Pack_Default_Component/
+  485  ls
+  486  git push
+  487  git remote -v
+  488  git fetch
+  489  cd ~
+  490  ls -al
+  491  cd .ssh
+  492  ls
+  493  cat id_rsa.pub 
+  494  cd -
+  495  cd ~/winhome/Documents/GitHub/can/IBM-Telco-Pack
+  496  git fetch
+  497  git fetch -v
+  498  ls
+  499  vi README.md 
+  500  git add *
+  501  git commit -m "Updated README file to point to issues" -a
+  502  ls
+  503  git push -v
+  504  ls
+  505  vi
+  506  cd ..
+  507  cd cda_documentation/
+  508  ls
+  509  cd ..
+  510  ls
+  511  git clone org-252208@github.ibm.com:CDA/cda_accelerators.git
+  512  ls
+  513  cd cda_accelerators/
+  514  ls
+  515  vi
+  516  ls
+  517  cd ..
+  518  ls
+  519  clear
+  520  ls
+  521  tree
+  522  clear
+  523  ls
+  524  cd IBM-Telco-Pack/
+  525  curl "https://us-south.git.cloud.ibm.com/api/v4/projects"
+  526  ls
+  527  curl "https://us-south.git.cloud.ibm.com/api/v4/projects" >projects.json
+  528  vi projects.json
+  529  curl "https://us-south.git.cloud.ibm.com/api/v4/projects?id=82743" >project_82743.json
+  530  vi project_82743.json 
+  531  curl "https://us-south.git.cloud.ibm.com/api/v4/projects?ID=82743" >project_82743.json
+  532  vi project_82743.json 
+  533  curl "https://us-south.git.cloud.ibm.com/api/v4/projects/id/82743" >project_82743.json
+  534  vi project_82743.json 
+  535  cat project_82743.json 
+  536  curl -i https://us-south.git.cloud.ibm.com/can/IBM-Telco-Pack/issues?scope=all&utf8=%E2%9C%93&state=all
+  537  ls
+  538  curl --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/can/IBM-Telco-Pack/issues?scope=all&utf8=%E2%9C%93&state=all
+  539  curl  --header "Authorization: Bearer ypAxkZbrr11teshttps://us-south.git.cloud.ibm.com/api/v4/projects/id/82743 >project_82743.json
+  540  curl  --header "Authorization: Bearer ypAxkZbrr11teshttps://us-south.git.cloud.ibm.com/api/v4/projects/id/82743 >project_82743.json
+  541  curl  --header "Authorization: Bearer ypAxkZbrr11teshttps://us-south.git.cloud.ibm.com/api/v4/projects/id/82743 >project_82743.json
+  542  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/id/82743 >project_82743.json
+  543  cat project_82743.json 
+  544  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/iid/82743 >project_82743.json
+  545  cat project_82743.json 
+  546  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects?iid="82743" >project_82743.json
+  547  cat project_82743.json 
+  548  cat project_82743.json  |grep can
+  549  cat project_82743.json  |grep -i telco
+  550  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects?id="82743" >project_82743.json
+  551  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues >project_82743.json
+  552  cat project_82743.json 
+  553  vi project_82743.json 
+  554  ls
+  555  pwd
+  556  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues >project_82743.json
+  557  ls
+  558  mv project_82743.json Issues_project_82743.json 
+  559  ls
+  560  git add *.json
+  561  git commit -a -m "added file for gitLab issues"
+  562  git push
+  563  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=1 >Issues_project_82743(1).json
+  564  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=1 >Issues_project_82743_1.json
+  565  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=2 >Issues_project_82743_2.json
+  566  git add *.json
+  567  git commit -a -m "added paginated files for all 168 gitLab issues"
+  568  git push
+  569  ls -l
+  570  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=2" >Issues_project_82743_2.json
+  571  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=1" >Issues_project_82743_1.json
+  572  ls 
+  573  git fetch
+  574  ls
+  575  cat Issues_project_82743_1.json Issues_project_82743_2.json > Issues_project_82743_all.json
+  576  vi Issues_project_82743_all.json 
+  577  git commit -a -m "merged page 1 and 2"
+  578  git push
+  579  git fetch -v
+  580  ls
+  581  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/graphql" >graph.json
+  582  cat graph.json 
+  583  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=1" 
+  584  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/graphql" 
+  585  jq
+  586  ls
+  587  jq Issues_project_82743_all.json
+  588  jq ., Issues_project_82743_all.json 
+  589  man jq
+  590  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/graphql" 
+  591  curl  --header "Authorization: Bearer ypAxkZbrr11tes2Bhdtm" "https://us-south.git.cloud.ibm.com/api/v4/projects/82743/issues?per_page=100&page=1" |jq ..
+  592  node app.js
+  593  node
+  594  sudo apt install nodejs
+  595  node app.js
+  596  cd winhome
+  597  ls
+  598  tree
+  599  ls
+  600  kjh
+  601  exit
+  602  oc
+  603  exit
+  604  win -fn ariel10
+  605  win -fn ariel
+  606  font
+  607  fontname
+  608  fontnames
+  609  exit
+  610  win 
+  611  exit
+  612  pwd
+  613  cd
+  614  oc
+  615  echo $PATH
+  616  . bash
+  617  . sh
+  618  . ./sh
+  619  sh
+  620  bash
+  621  clear
+  622  ls
+  623  ls bin
+  624  oc
+  625  echo $PATH
+  626  pwd
+  627  openssh
+  628  sudo apt install openssh
+  629  apt
+  630  apt search openssl
+  631  openssl
+  632  exit
+  633  env
+  634  exit
+  635  docker
+  636  docker images
+  637  docker login quay.io -u canpb -p
+  638  docker login quay.io -u canpb 
+  639  docker search nginx
+  640  git
+  641  exit
+  642  ls
+  643  tree
+  644  exit
+  645  cd
+  646  oc
+  647  alias
+  648  cd
+  649  la
+  650  grep alias
+  651  grep alias .bashrc
+  652  vi .bashrc
+  653  . .bashrc
+  654  oc
+  655  fc-list
+  656  fc-list |grep ariel
+  657  fc-list |grep arial
+  658  fc-list |grep courier
+  659  fc-list | cut -f2 -d: | sort -u
+  660  fc-list |wc -l
+  661  fc-list | cut -f2 -d: | sort -u |wc -l
+  662  fc-list | cut -f2 -d: 
+  663  fc-list | cut -f2 -d: |wc -l
+  664  fc-list | cut -f2 -d: |sort
+  665  ls
+  666  exit
+  667  tree
+  668  ls
+  669  clear
+  670  ls
+  671  cat history.txt
+  672  clear
+  673  cd
+  674  ls -al
+  675  cd .docker
+  676  ls
+  677  vi config.json 
+  678  which docker
+  679  docker
+  680  docker images
+  681  cd
+  682  ls
+  683  cd /mnt/c/users
+  684  cd CanBoyacigiller/
+  685  ls -l
+  686  ls -al
+  687  cd .docker
+  688  ls
+  689  which docker
+  690  alias
+  691  cd ..
+  692  cd bin
+  693  ls
+  694  ./docker
+  695  cd
+  696  sudo apt search docker
+  697  sudo apt install docker-ce docker-compose
+  698  run apt-get update
+  699  apt-get update
+  700  sudo apt-get update
+  701  sudo apt install docker-ce docker-compose
+  702  cd
+  703  docker
+  704  docker --version
+  705  cd
+  706  pwd
+  707  ls
+  708  ls -la
+  709  docker images
+  710  cd .docker
+  711  ls
+  712  vi daemon.json
+  713  docker images
+  714  ls
+  715  cp config.json config.json.bk
+  716  vi config.json
+  717  docker images
+  718  docker -compose
+  719  docker-compose
+  720  docker-compose images
+  721  cd 
+  722  which docker
+  723  docker images
+  724  systemctl status docker.service
+  725  sudo docker images
+  726  sudo service docker stop
+  727  sudo nohup docker daemon -H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock &
+  728  sudo docker info
+  729  id
+  730  sudo usermod -aG docker canpb
+  731  docker images
+  732  sudo service docker start
+  733  docker images
+  734  cd /var/run
+  735  ls
+  736  ls -l
+  737  sudo docker images
+  738  ps -ef |grep docker
+  739  cd /lib
+  740  cd systemd
+  741  cd docker.service
+  742  ls
+  743  cd ..
+  744  clear
+  745  ls
+  746  cd ..
+  747  ls
+  748  cd
+  749  clear
+  750  ls
+  751  cd -
+  752  ls
+  753  cd snap
+  754  ls
+  755  cd ..
+  756  ls
+  757  snap
+  758  clear
+  759  cd /etc/bin
+  760  ls
+  761  pwd
+  762  cd /etc
+  763  cd init.d
+  764  ls
+  765  cd docker
+  766  ls
+  767  ./docker
+  768  service docker start
+  769  sudo service docker start
+  770  cd 
+  771  docker images
+  772  sudo docker images
+  773  cd /lib/systemd/
+  774  ls
+  775  cd system
+  776  ls
+  777  ls dock*
+  778  view docker.socket 
+  779  vi docker.service 
+  780  sudo docker images
+  781  sudo netstat -lntp |grep dockerd
+  782  sudo systemctl daemon-reload
+  783  sudo service docker restart
+  784  sudo service docker status
+  785  sudo docker run hello-world
+  786  systemctl status docker.service 
+  787  cd
+  788  clear
+  789  ls
+  790  cd /mnt/c/users/CanBoyacigiller/Documents/GitHub/
+  791  ls
+  792  cd can
+  793  ls
+  794  pwd
+  795  clear
+  796  htpasswd
+  797  clear
+  798  oc get pods 
+  799  watch 0c get pods -o wide
+  800  watch oc get pods -o wide
+  801  oc get pods
+  802  docker images
+  803  clear
+  804  wach oc get pods -owide
+  805  watch oc get pods -owide
+  806  oc project
+  807  cd redhat-lab/
+  808  source ocp4.config 
+  809  oc login -u admin -p $RHT_OCP4_USER_PASSWD
+  810  oc project schedule-limits
+  811  oc project schedule-limit
+  812  watch oc get pods -o wide
+  813  watch oc get pods
+  814  oc get pods
+  815  watch oc get pods
+  816  oc get pods
+  817  oc get pods -w
+  818  watch oc get pods
+  819  oc get pods -w
+  820  history
+  821  history > history.xterm2.txt
